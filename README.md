@@ -5,7 +5,7 @@
 
 <h3>Full Stack Web Developer</h3>
 
-Full Stack Web Developer con formación como Diseñador Web. Experiencia trabajando en JavaScript, React, Redux, NodeJS, ExpressJS y SQL entre otras tecnologías. Formé parte de la creación de un E-commerce dirigido a un emprendimiento nacido en Rosario (Argentina) para la venta de bebidas y comida sana, "https://cane-food.vercel.app/". Me apasionan los retos, me gusta la autonomía, aprender nuevos temas y trabajar en equipo.
+Tengo Experiencia trabajando en JavaScript, React, Redux, NodeJS, ExpressJS y SQL entre otras tecnologías. Formé parte de la creación de un E-commerce dirigido a un emprendimiento nacido en Rosario (Argentina) para la venta de bebidas y comida. Me apasionan los retos, me gusta la autonomía, aprender nuevos temas y trabajar en equipo.
 
 <h3>Proyectos:</h3>
 
