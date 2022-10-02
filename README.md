@@ -2,6 +2,12 @@
 
 ![HenryLogo](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/GitHub.png?alt=media&token=b98a4954-6961-4876-add0-7d32e59cde6d)
 
+
+Eduardo Hidalgo
+
+Full Stack Web Developer
+
+
 <!--
 **hidalgo86/hidalgo86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
