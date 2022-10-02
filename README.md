@@ -11,7 +11,7 @@ Tengo Experiencia trabajando en JavaScript, React, Redux, NodeJS, ExpressJS y SQ
 
 <li>https://cane-food.vercel.app/</li></br>
 
-![Cane](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/cane.png?alt=media&token=b25baed6-a210-474b-abb3-d2b4cf0517b5)
+![Cane](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/cane-food.png?alt=media&token=a1c27c0e-772e-404e-baec-1d2535e11f7b)
 
 <li>https://app-dogs-omega.vercel.app/</li></br>
 
