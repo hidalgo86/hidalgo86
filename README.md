@@ -1,6 +1,6 @@
 
 
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+![HenryLogo](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/Can%C3%A9%20App100.jpg?alt=media&token=57d7fc7d-004d-489b-8dd3-7406b51cd569)
 
 <!--
 **hidalgo86/hidalgo86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
