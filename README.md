@@ -1,18 +1,24 @@
+![Banner](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/Banner.png?alt=media&token=adfde187-652b-40e7-9b6c-1de6fcf4a689)
 
 
-![HenryLogo](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/GitHub.png?alt=media&token=b98a4954-6961-4876-add0-7d32e59cde6d)
+<h1>Eduardo Hidalgo</h1>
 
-
-<b>Eduardo Hidalgo</b>
-
-Full Stack Web Developer
-
-
-
+<h3>Full Stack Web Developer</h3>
 
 Full Stack Web Developer con formación como Diseñador Web. Experiencia trabajando en JavaScript, React, Redux, NodeJS, ExpressJS y SQL entre otras tecnologías. Formé parte de la creación de un E-commerce dirigido a un emprendimiento nacido en Rosario (Argentina) para la venta de bebidas y comida sana, "https://cane-food.vercel.app/". Me apasionan los retos, me gusta la autonomía, aprender nuevos temas y trabajar en equipo.
 
-<b>Contacto:</b> </br>
-<b>Tlf:</b> +54 11 9 2387-5574 </br>
-<b>Correo:</b> hidalgojose86@gmail.com </br>
-www.linkedin.com/in/hidalgoeduardo
+<h3>Proyectos:</h3>
+
+<li>https://cane-food.vercel.app/</li></br>
+
+![Cane](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/cane.png?alt=media&token=b25baed6-a210-474b-abb3-d2b4cf0517b5)
+
+<li>https://app-dogs-omega.vercel.app/</li></br>
+
+![App Dogs](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/App%20Dogs.png?alt=media&token=4725ab5f-a599-4cfa-9f45-2fb0dade738d)</br>
+
+
+<h2>Contacto:</h2>
+<h3>TLF: +54 11 9 2387-5574</h3>
+<h3>hidalgojose86@gmail.com</h3>
+<h3>www.linkedin.com/in/hidalgoeduardo</h3>
