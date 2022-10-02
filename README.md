@@ -18,7 +18,7 @@ Tengo Experiencia trabajando en JavaScript, React, Redux, NodeJS, ExpressJS y SQ
 ![App Dogs](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/App%20Dogs.png?alt=media&token=4725ab5f-a599-4cfa-9f45-2fb0dade738d)</br>
 
 
-<h2>Contacto:</h2>
-<h3>TLF: +54 11 9 2387-5574</h3>
-<h3>hidalgojose86@gmail.com</h3>
-<h3>www.linkedin.com/in/hidalgoeduardo</h3>
+<h3>Contacto:</h3>
+<h4>TLF: +54 11 9 2387-5574</h4>
+<h4>hidalgojose86@gmail.com</h4>
+<h4>www.linkedin.com/in/hidalgoeduardo</h4>
