@@ -50,6 +50,18 @@ Búsqueda Dinámica: Incluí una barra de búsqueda para localizar películas f�
 
 
 
+<b>Aplicación web para gestionar tareas diarias: (Diciembre 2024)</b>
+
+
+La ToDo List App es una aplicación que permite a los usuarios organizar sus tareas diarias mediante un sistema CRUD (Crear, Leer, Actualizar y Eliminar)
+
+Aptitudes: Back-End Web Development · HTML5 · Hojas de estilos en cascada (CSS) · JavaScript · Express.js · MongoDB · Desarrollo de API
+
+<li>https://to-do-list-production-5729.up.railway.app/</li></br>
+
+![coleeccion](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/App_ToDo_List.png?alt=media&token=5d8a4ba3-7d45-48c1-b6f7-a7bbbda36d81)
+
+
 <b>🎯 Aplicacion web Dog: (Octubre 2024)</b>
 
 Permite gestionar y explorar diferentes razas de perros, proporcionando una experiencia interactiva y moderna tanto en el frontend como en el backend permitiendo realizar un crud tanto para los perros como para el registro de usuarios.
