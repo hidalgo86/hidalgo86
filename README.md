@@ -37,7 +37,9 @@ React, Next, Express, Nest.js, Node.js, JavaScript, Python, PostgreSQL, MongoDB,
 ![Cane](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/cane-food.png?alt=media&token=a1c27c0e-772e-404e-baec-1d2535e11f7b)
 
 
-<h3>Contacto:</h3>
+<div style="text-align: center;">
+<h2>Contacto:</h2>
 <h4>TLF: +34 613861229</h4>
 <h4>hidalgojose86@gmail.com</h4>
 <h4>www.linkedin.com/in/hidalgoeduardo</h4>
+</div>
