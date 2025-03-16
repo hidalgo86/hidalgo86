@@ -10,7 +10,7 @@ React, Next, Express, Nest.js, Node.js, JavaScript, Python, PostgreSQL, MongoDB,
 <h3>Proyectos:</h3>
 
  
-API de gestión de comercio: (marzo 2025)
+<b>API de gestión de comercio: (marzo 2025)</b>
 
 🚀 Este proyecto es una API robusta y escalable que permite gestionar usuarios, productos y proveedores, con autenticación segura y documentación integrada con OpenAPI. Implementé pruebas automatizadas para garantizar su calidad y optimicé su rendimiento.</br>
 
@@ -29,7 +29,7 @@ API de gestión de comercio: (marzo 2025)
 
 
 
-🎥 Aplicación Web para Gestión de Películas con Next.js: (enero 2025) 🌟
+<b>🎥 Aplicación Web para Gestión de Películas con Next.js: (enero 2025)</b> 🌟
 
 Esta aplicación web permite a los usuarios explorar películas populares, consultar detalles individuales y organizar su lista de favoritas. Este proyecto combina varias tecnologías modernas para ofrecer una experiencia fluida y atractiva, con los siguientes objetivos principales:
 
@@ -50,7 +50,7 @@ Búsqueda Dinámica: Incluí una barra de búsqueda para localizar películas f�
 
 
 
-🎯 Aplicacion web Dog: (octubre 2024)
+<b>🎯 Aplicacion web Dog: (octubre 2024)</b>
 
 Permite gestionar y explorar diferentes razas de perros, proporcionando una experiencia interactiva y moderna tanto en el frontend como en el backend permitiendo realizar un crud tanto para los perros como para el registro de usuarios.
 
@@ -63,7 +63,7 @@ La aplicacion la desplegue en vercel (fronted) y railway (backend)
 ![coleeccion](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/App_Coleccion.png?alt=media&token=ae773fc3-44b5-439a-aa8e-0932493e10f4)
 
 
-🎯 Aplicacion web Cane Food: (0ctubre 2022)
+<b>🎯 Aplicacion web Cane Food: (0ctubre 2022)</b>
 
 Diseño y desarrollo de una aplicación de e-commerce que incluye funcionalidades como autenticación, selección de productos, filtrados avanzados, historial de pedidos, notificaciones y panel de administración.
 
@@ -77,7 +77,7 @@ Base de datos: PostgreSQL, Sequelize.
 ![Cane](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/cane-food.png?alt=media&token=a1c27c0e-772e-404e-baec-1d2535e11f7b)
 
 
-🎯 Aplicacion web Dog_basica: (Septiembre 2022)
+<b>🎯 Aplicacion web Dog_basica: (Septiembre 2022)</b>
 
 Permite gestionar y explorar diferentes razas de perros, permitiendo realizar un crud tanto para los perros, como para el registro de usuarios.
 
