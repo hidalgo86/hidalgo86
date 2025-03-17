@@ -95,7 +95,7 @@ Permite gestionar y explorar diferentes razas de perros, permitiendo realizar un
 
 Tecnologias: React, Material UI, Node.js, Express, JWT, PostgreSQL.
 
-<li>https://app-dogs-omega.vercel.app/</li></br>
+<li>https://proyecto-inicial-pied.vercel.app/</li></br>
 
 ![App Dogs](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/App%20Dogs.png?alt=media&token=4725ab5f-a599-4cfa-9f45-2fb0dade738d)</br>
 
