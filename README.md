@@ -2,7 +2,7 @@
 
 <h3>Full Stack Web Developer</h3>
 
-Soy Ingeniero en Procesos Químicos  con experiencia en el desarrollo de aplicaciones web y plataformas E-commerce. Combino una sólida formación en análisis de procesos con habilidades avanzadas en tecnologías como React, Next, Node.js, Express, Nest.js, PostgreSQL, MongoDB,  API REST, Jest. Mi enfoque analítico y estructurado, desarrollado a lo largo de mi trayectoria en ingeniería, me permite crear soluciones tecnológicas robustas y adaptadas a las necesidades del usuario. además tengo experiencia trabajando con metodologías ágiles (SCRUM) y herramientas colaborativas como trello y git. Busco aportar mis conocimientos multidisciplinarios en proyectos innovadores y tecnológicos
+Soy Ingeniero en Procesos  con experiencia en el desarrollo de aplicaciones web y plataformas E-commerce. Combino una sólida formación en análisis de procesos con habilidades avanzadas en tecnologías como React, Next, Node.js, Express, Nest.js, PostgreSQL, MongoDB,  API REST, Jest. Mi enfoque analítico y estructurado, desarrollado a lo largo de mi trayectoria en ingeniería, me permite crear soluciones tecnológicas robustas y adaptadas a las necesidades del usuario. además tengo experiencia trabajando con metodologías ágiles (SCRUM) y herramientas colaborativas como trello y git. Busco aportar mis conocimientos multidisciplinarios en proyectos innovadores y tecnológicos
 
 <h4>Tecnologias:</h4>
 React, Next, Express, Nest.js, Node.js, JavaScript, Python, PostgreSQL, MongoDB,  API REST, Jest, SCRUM, Trello, Git.
