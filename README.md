@@ -70,7 +70,7 @@ Esta fue desarrollada con React, Material UI, Node.js, Express, JWT, Sequelize-P
 
 La aplicacion la desplegue en vercel (fronted) y railway (backend)
 
-<li>https://app-dog-razas-ct9o9jp61-hidalgo86s-projects.vercel.app/</li></br>
+<li>https://app-dog-razas.vercel.app/</li></br>
 
 ![coleeccion](https://firebasestorage.googleapis.com/v0/b/hidalgo-83f55.appspot.com/o/App_Coleccion.png?alt=media&token=ae773fc3-44b5-439a-aa8e-0932493e10f4)
 
